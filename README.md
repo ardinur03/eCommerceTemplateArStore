@@ -1,4 +1,4 @@
-## E-Commerce Template ArStore
+# E-Commerce Template ArStore
 
 ArStore is a simple E-Commerce template created using Bootstrap 5, featuring an attractive and user-friendly homepage.
 
@@ -14,4 +14,3 @@ ArStore is a simple E-Commerce template created using Bootstrap 5, featuring an 
 - Checkout (Coming Soon)
 
 <p align="center"><b>Made with ❤️ by Ardi</b></p>
-# eCommerceTemplateArStore
