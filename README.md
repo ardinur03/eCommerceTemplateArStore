@@ -4,7 +4,7 @@ ArStore is a simple E-Commerce template created using Bootstrap 5, featuring an 
 
 ## 🔗 Links
 
-[![Live Preview](https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://staging-api-forum-app-laravel.herokuapp.com/)
+[![Live Preview](https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://ardinur03.github.io/eCommerceTemplateArStore/)
 
 ## Features
 
